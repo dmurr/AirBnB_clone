@@ -46,7 +46,7 @@ article {
 }
 
 .max_guest::before {
-    content: url(./images/icon_group.png);
+    content: url(../../images/icon_group.png);
     object-fit: none;
 }
 
